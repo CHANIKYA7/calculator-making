@@ -1,5 +1,9 @@
-# calculator-making
-mini project using the if and elif  functions
+####calculator-making
+##mini project using the if and elif  functions
+
+
+
+
 result = 0
 x = input("enter a number")
 y = input("enter another number")
