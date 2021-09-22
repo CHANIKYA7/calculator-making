@@ -33,7 +33,7 @@ choice = input('''select operator:
                '/' for division
                '^' for square
                '%' for module ''')
-## USing the if and elif  function
+## Using the if and elif  function
 ### if the choice is + it will perform addition between in x and y and printed x+y, otherwise move to elif condition:
 if choice == '+':
     print("{} + {} = ".format(x,y))
