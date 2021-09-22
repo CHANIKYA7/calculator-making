@@ -5,7 +5,7 @@
 
 ### Intialy taking a variable (result) is equall to 0:
 result = 0
-###  x an y values  from the user:
+###  x and y values  from the user:
 x = input("enter a number")
 y = input("enter another number")
 ### Using the if condition finding the x is integer or float:
@@ -25,7 +25,7 @@ if '.' not in x:
 if '.' not in y:
     y = int(y)
     print("y is integer")
-### selecting the operator and which store in the choice variable:
+### selecting the operator and which is store in the choice variable:
 choice = input('''select operator:
                '+' for addition
                '-' for subtraction
